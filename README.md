@@ -1,5 +1,5 @@
 # dos_tool kurulumu sırasıyla bu şekildedir
-cd masaüsütü <br>
+cd masaüstü<br>
 git clone "dosya linki"<br>
 ls<br>
 cd "dosya adı"<br>
